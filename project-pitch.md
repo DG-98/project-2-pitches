@@ -1,4 +1,4 @@
-# Untitled site to favorite video games and read further info.
+# VGDB game database.
 # Tech Stack
 - Vanilla JS
 - EJS
@@ -21,8 +21,8 @@ I will be using the RAWG video game database API which you can find here (https:
 # MVP Goals 
 - The ability to search games and view relevant info related to the game
 - The ability to favorite games and view your favorites 
-- The ability to favorite game developers and also view that list 
-- The ability to remove games and developers from their respective lists. 
+- The ability to add comments to games.
+- The ability to edit and remove comments you've made.  
 
 # Stretch Goals
 - Links to outside sites like the steam or playstation site for games
